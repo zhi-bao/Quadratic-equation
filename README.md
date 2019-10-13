@@ -9,3 +9,10 @@ We say the equation doesn't accept any solution when Delta less than zero.
 But if Delta equal zero we can get just one solution wich's x = -b / 2*a.
 Finally if Delta greater than zero, so the equation accept two solutions
 which are x= -b (-+) square root of delta / 2*a
+
+# Run the progam
+
+``` 
+Quadratic-Equation-master\Quadratic-Equation-master\dist\main\main.exe
+```
+
